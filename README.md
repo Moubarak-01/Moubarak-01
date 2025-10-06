@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Moubarak-01
 - 👀 I’m interested in learning coding skills.
-- 🌱 I’m currently learning intro to web that i will soon start with codepath.
 - 💞️ I’m looking to collaborate on a lot of projects and practices.
 - 📫 How to reach me using my email like alikparahmoubarak@gmail.com.
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 
 
