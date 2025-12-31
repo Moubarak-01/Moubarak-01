@@ -1,3 +1,10 @@
+- 👋 Hi, I’m @Moubarak-01
+- 👀 I’m interested in learning coding skills.
+- 💞️ I’m looking to collaborate on a lot of projects and practices.
+- 📫 How to reach me using my email like alikparahmoubarak@gmail.com.
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I'm really good at drawing like really good for real for real.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moubarak-ali-kparah-689713349/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alikparahmoubarak@gmail.com) 
@@ -11,11 +18,8 @@
 ![React.js](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=merko&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moubarak-01&theme=merko&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false)
 <br/>
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false&layout=compact)
-
----
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Moubarak-01&icon=0&color=0)](https://visitcount.itsvg.in)
