@@ -9,27 +9,29 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/moubarak-ali-kparah-689713349/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:alikparahmoubarak@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/moubarak-ali-kparah-689713349/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="150" alt="LinkedIn" />
+</a>
+<a href="mailto:alikparahmoubarak@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" alt="Email" />
+</a>
 </p>
 
 # 💻 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,react&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,react&theme=dark&perline=6" />
+  </a>
 </p>
 
 # 📊 GitHub Stats:
 <p align="left">
 <a href="https://github.com/Moubarak-01">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&show_icons=true&theme=radical&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" alt="Moubarak's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&show_icons=true&theme=neon&rank_icon=github&border_radius=15&include_all_commits=true&count_private=true" alt="Moubarak's GitHub Stats" />
 </a>
 <br/>
 <a href="https://streak-stats.demolab.com/?user=Moubarak-01">
-  <img src="https://streak-stats.demolab.com/?user=Moubarak-01&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</a>
-<br/>
-<a href="https://github.com/Moubarak-01">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&layout=compact&theme=radical&border_radius=10" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=Moubarak-01&theme=neon&hide_border=false&border_radius=15" alt="GitHub Streak" />
 </a>
 </p>
 
