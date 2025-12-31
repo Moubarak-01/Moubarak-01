@@ -18,7 +18,8 @@
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=merko&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)](https://github.com/Moubarak-01)
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false)](https://streak-stats.demolab.com/?user=Moubarak-01)
-<br/>[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false&layout=compact)](https://github.com/Moubarak-01)
+<br/>
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false&layout=compact)](https://github.com/Moubarak-01)
 
 
 # 🚀 My Top Projects so far:
