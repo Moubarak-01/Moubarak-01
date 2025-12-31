@@ -8,19 +8,34 @@
 - ⚡ **Fun Fact #2:** I'm a competitive student-athlete currently playing tennis for my college team.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moubarak-ali-kparah-689713349/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alikparahmoubarak@gmail.com) 
+<p align="left">
+<a href="https://www.linkedin.com/in/moubarak-ali-kparah-689713349/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:alikparahmoubarak@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
 
 # 💻 Tech Stack:
-![Html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React.js](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,react&theme=dark" />
+</p>
 
 # 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=merko&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)](https://github.com/Moubarak-01)
+<p align="left">
+<a href="https://github.com/Moubarak-01">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=neon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+</a>
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false)](https://streak-stats.demolab.com/?user=Moubarak-01)
+<a href="https://streak-stats.demolab.com/?user=Moubarak-01">
+  <img src="https://streak-stats.demolab.com/?user=Moubarak-01&theme=neon&hide_border=false" alt="GitHub Streak" />
+</a>
 <br/>
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false&layout=compact)](https://github.com/Moubarak-01)
-
+<a href="https://github.com/Moubarak-01">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=neon&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" />
+</a>
+</p>
 
 # 🚀 My Top Projects so far:
 | Project | Description | Tech Stack |
