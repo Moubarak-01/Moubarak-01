@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Moubarak-01
-- 🚀 I'm a Full-Stack Developer passionate about building AI-driven tools and creative web applications.
-- 💞️ I’m looking to collaborate on innovative open-source projects and software practices.
+- 🎓 **Computer Science Student (4.0 GPA)** at [Rust College](https://word.cloud.microsoft/?wdOrigin=WAC.WORD.HOME-BUTTON&wdPreviousSession=8ea01242-28aa-471a-be99-70f0c80d2a91&wdPreviousSessionSrc=AppHomeWeb), starting my Sophomore year in January 2026.
+- 🚀 **Aspiring Full-Stack Developer** passionate about building AI-driven desktop tools and reactive web applications.
+- 💞️ I’m looking to collaborate on open-source projects and software practices that push the boundaries of AI integration.
 - 📫 Reach me at: [alikparahmoubarak@gmail.com](mailto:alikparahmoubarak@gmail.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ **Fun Fact #1:** I'm an artist at heart and I'm really, really good at drawing.
-- ⚡ **Fun Fact #2:** I'm a competitive tennis player currently playing for my college team.
+- ⚡ **Fun Fact #2:** I'm a competitive student-athlete currently playing tennis for my college team.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moubarak-ali-kparah-689713349/) 
