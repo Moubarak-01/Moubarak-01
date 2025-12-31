@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Moubarak-01
-- 👀 I’m interested in learning coding skills. [cite: 2]
-- 💞️ I’m looking to collaborate on a lot of projects and practices. [cite: 3]
-- 📫 How to reach me using my email like alikparahmoubarak@gmail.com. [cite: 4]
+- 🚀 I'm a Full-Stack Developer passionate about building AI-driven tools and creative web applications.
+- 💞️ I’m looking to collaborate on innovative open-source projects and software practices.
+- 📫 Reach me at: [alikparahmoubarak@gmail.com](mailto:alikparahmoubarak@gmail.com)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm really good at drawing like really good for real for real. [cite: 5]
+- ⚡ **Fun Fact #1:** I'm an artist at heart and I'm really, really good at drawing.
+- ⚡ **Fun Fact #2:** I'm a competitive tennis player currently playing for my college team.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moubarak-ali-kparah-689713349/) 
