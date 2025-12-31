@@ -15,11 +15,11 @@
 ![Html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React.js](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=merko&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=merko&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)](https://github.com/Moubarak-01)
 <br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false)](https://streak-stats.demolab.com/?user=Moubarak-01)
 <br/>
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false&layout=compact)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false&layout=compact)](https://github.com/Moubarak-01)
 
 # 🚀 My Top Projects so far:
 | Project | Description | Tech Stack |
