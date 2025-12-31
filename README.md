@@ -18,3 +18,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false)
 <br/>
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false&layout=compact)
+
+# 🚀 My Top Projects so far:
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Moubely](https://github.com/Moubarak-01/Moubely)** | Stealthy AI Assistant with 18-model waterfall and screen analysis. | Electron, React, Gemini, Whisper |
+| **[Movie Search](https://github.com/Moubarak-01/Movie-Search-App)** | Full-stack discovery app with cold-start optimization. | React, Appwrite, TMDB API |
