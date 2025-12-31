@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moubarak-01
-- 🎓 **Computer Science Student (4.0 GPA)** at [Rust College](https://word.cloud.microsoft/?wdOrigin=WAC.WORD.HOME-BUTTON&wdPreviousSession=8ea01242-28aa-471a-be99-70f0c80d2a91&wdPreviousSessionSrc=AppHomeWeb), starting my Sophomore year in January 2026.
-- 🚀 **Aspiring Full-Stack Developer** passionate about building AI-driven desktop tools and reactive web applications.
+- 🎓 **Computer Science Student (4.0 GPA)** at **Rust College**, starting my Sophomore year in January 2026.
+- 🚀 **Aspiring Full-Stack Developer** passionate about building *AI-driven* desktop tools and reactive web applications.
 - 💞️ I’m looking to collaborate on open-source projects and software practices that push the boundaries of AI integration.
 - 📫 Reach me at: [alikparahmoubarak@gmail.com](mailto:alikparahmoubarak@gmail.com)
 - 😄 Pronouns: He/Him/His
