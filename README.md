@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moubarak-01
-- 🎓 **Computer Science Student (4.0 GPA)** at **Rust College**, starting my Sophomore year in January 2026.
+- 🎓 **Computer Science Student (4.0 GPA)** at **Rust College**.
 - 🎨 **Aspiring Frontend Engineer** with a strong foundation in **Full-Stack development**. I specialize in building reactive, user-centric interfaces for *AI-driven* desktop and web applications.
 - 💞️ I’m looking to collaborate on open-source projects and software practices that push the boundaries of AI integration.
 - 📫 Reach me at: [alikparahmoubarak@gmail.com](mailto:alikparahmoubarak@gmail.com)
