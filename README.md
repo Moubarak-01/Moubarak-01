@@ -19,7 +19,7 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false" alt="GitHub Streak" />
 
 <br />
 
