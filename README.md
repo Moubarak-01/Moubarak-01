@@ -19,7 +19,7 @@
 
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moubarak-01&theme=merko&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false)](https://git.io/streak-stats)
 
 <br />
 
