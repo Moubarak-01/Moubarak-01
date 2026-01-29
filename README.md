@@ -15,19 +15,15 @@
 
 
 # 📊 GitHub Stats:
-<p align="left">
-  <a href="https://github.com/Moubarak-01">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=merko&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
-  </a>
-  <br />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false" alt="GitHub Streak" />
-  </a>
-  <br />
-  <a href="https://github.com/Moubarak-01">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=merko&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)](https://github.com/Moubarak-01)
+
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Moubarak-01&theme=merko&hide_border=false)](https://git.io/streak-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moubarak-01&theme=merko&show_icons=true&hide_border=false&layout=compact)](https://github.com/Moubarak-01)
 
 
 # 🚀 My Top Projects so far:
