@@ -30,5 +30,5 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Moubely](https://github.com/Moubarak-01/Moubely)** | Stealthy AI Assistant with 18-model waterfall and screen analysis. | Electron, React, Gemini, Whisper |
-| **[Movie Search](https://github.com/Moubarak-01/Movie-Search-App)** | Full-stack discovery app with cold-start optimization. | React, Appwrite, TMDB API |
+| **[Mouvie](https://github.com/Moubarak-01/Movie-Search-App)** | Full-stack discovery app with cold-start optimization. | React, Appwrite, TMDB API |
 
