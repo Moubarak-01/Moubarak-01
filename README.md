@@ -1,31 +1,21 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=220&section=header&text=Moubarak%20Ali-Kparah&fontSize=50&fontAlignY=38&animation=twinkling&desc=Frontend%20%26%20Full-Stack%20Engineer%20%7C%20AI-Driven%20Systems&descAlignY=62&descAlign=50" width="100%"/>
+<!-- Futuristic Custom Visual Banner -->
+<img src="https://raw.githubusercontent.com/Moubarak-01/Moubarak-01/main/assets/banner.png" alt="Moubarak Ali-Kparah Hero Banner" width="100%"/>
 
-<!-- Dynamic Animated Typing Subtitle -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Computer+Science+Student+%40+Rust+College+(4.0+GPA);Building+AI-driven+Desktop+%26+Web+Applications;Varsity+Tennis+Student-Athlete;Artist+at+Heart+%7C+Fluent+in+English+%26+French" alt="Typing SVG" />
 </p>
 
-<!-- 🌐 Socials -->
-<a href="https://www.linkedin.com/in/moubarak-ali-kparah-689713349/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-</a>
-<a href="mailto:alikparahmoubarak@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-</a>
-<a href="https://moubarak-01.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/moubarak-ali-kparah-689713349/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alikparahmoubarak@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://moubarak-01.github.io/Portfolio/)
 
 </div>
 
-<br/>
+<br />
 
-### ⚡ About Me
+# 👋 Hi, I’m @Moubarak-01
 
-- 👋 Hi, I’m **@Moubarak-01**
 - 🎓 **Computer Science Student (4.0 GPA)** at **Rust College**.
 - 🎨 **Aspiring Frontend Engineer** with a strong foundation in **Full-Stack development**. I specialize in building reactive, user-centric interfaces for *AI-driven* desktop and web applications.
 - 💞️ I’m looking to collaborate on open-source projects and software practices that push the boundaries of AI integration.
@@ -36,8 +26,7 @@
 
 ---
 
-### 💻 Tech Stack
-
+# 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -53,8 +42,7 @@
 
 ---
 
-### 🚀 My Top Projects so far
-
+# 🚀 My Top Projects so far:
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
 | **[Moubely](https://github.com/Moubarak-01/Moubely)** | Stealthy AI Assistant with 18-model waterfall and screen analysis. | `Electron` `React` `Gemini` `Whisper` | ![v1.0.0](https://img.shields.io/badge/v1.0.0-shipped-brightgreen?style=flat-square) |
@@ -62,8 +50,7 @@
 
 ---
 
-### 🌃 Contribution Village
-
+# 🌃 Contribution Village
 <div align="center">
   <sub><i>Isometric city skyline generated automatically every night from active commits.</i></sub><br/><br/>
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Moubarak's 3D Contribution City" width="100%"/>
@@ -71,8 +58,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
+# 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/Moubarak-01">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moubarak-01&theme=merko&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" width="49%"/>
@@ -82,7 +68,7 @@
   </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <a href="https://github.com/Moubarak-01">
@@ -90,7 +76,7 @@
   </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Moubarak-01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
