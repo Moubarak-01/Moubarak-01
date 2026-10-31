@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Futuristic Custom Visual Banner -->
-<img width="1024" height="572" alt="b0bdd9bc-2b5f-497a-aa42-9f8f61878de6" src="https://github.com/user-attachments/assets/bc51a4a0-2837-4cb9-a514-5c3a8be6b18e" />
+<img width="1024" height="572" alt="4e06bdc9-9b1e-456d-8bc3-642ac0b427f2" src="https://github.com/user-attachments/assets/503931e4-9e45-46d9-b317-06c4b688f570" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Computer+Science+Student+%40+Rust+College+(4.0+GPA);Building+AI-driven+Desktop+%26+Web+Applications;Varsity+Tennis+Student-Athlete;Artist+at+Heart+%7C+Fluent+in+English+%26+French" alt="Typing SVG" />
 </p>
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/moubarak-ali-kparah-689713349/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alikparahmoubarak@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://moubarak-01.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/moubarak-ali-kparah/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alikparahmoubarak@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://moubarak-01.github.io/Portfolio/)
 
 </div>
 
