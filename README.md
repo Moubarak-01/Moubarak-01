@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Futuristic Custom Visual Banner -->
-<img src="https://raw.githubusercontent.com/Moubarak-01/Moubarak-01/main/assets/banner.png" alt="Moubarak Ali-Kparah Hero Banner" width="100%"/>
+<img width="1024" height="572" alt="b0bdd9bc-2b5f-497a-aa42-9f8f61878de6" src="https://github.com/user-attachments/assets/bc51a4a0-2837-4cb9-a514-5c3a8be6b18e" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Computer+Science+Student+%40+Rust+College+(4.0+GPA);Building+AI-driven+Desktop+%26+Web+Applications;Varsity+Tennis+Student-Athlete;Artist+at+Heart+%7C+Fluent+in+English+%26+French" alt="Typing SVG" />
